@@ -8,3 +8,8 @@ Slapstick/Saved/AutoScreenshot.png
 Slapstick/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 
 Slapstick/Saved/SourceControl/UncontrolledChangelists.json
+*.ini
+*.json
+*.ini
+*.json
+Slapstick/Saved/Autosaves/PackageRestoreData.json
