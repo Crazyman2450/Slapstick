@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Jamie/Documents/GitHub/Slapstick/Slapstick/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Jamie/Documents/GitHub/Slapstick/Slapstick/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Jamie/Documents/GitHub/Slapstick/Slapstick/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/jamie/Documents/Unreal Projects/Slapstick/Content/Blueprints/BP_Hand.uasset",
 				"/Users/jamie/Documents/Unreal Projects/Slapstick/Content/UI/W_SlapMeter.uasset",
 				"/Users/jamie/Documents/Unreal Projects/Slapstick/Content/Blueprints/BP_Enemy.uasset",
