@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#ignore .sln
+*.sln
+
+.vs
+Binaries
+Build
+Intermediate
+DerivedDataCache
+Plugins
+Publish
+Saved
+Screenshots
+
